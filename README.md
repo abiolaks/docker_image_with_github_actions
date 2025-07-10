@@ -14,3 +14,7 @@ conda activate venv/
 pip install -r requirements.txt
 
 ```
+* create cicd.yml
+* create token on docker hub account
+* go to the project github as the username and password (token from dockerhub) as repository secrets
+
